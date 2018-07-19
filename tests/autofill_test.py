@@ -6,9 +6,9 @@ col = Columns
 #testing class that tests all four functions in the Calculate file
 class AutofillTester(unittest.TestCase):
 
-    def test_autofill_in_array(self):
-        # col.array1 = []
-        # col.array2 = []
+    def test_autofill_in_dict(self):
+        # col.dict1 = []
+        # col.dictdict2 = []
         # self.assertEqual(col.autofill_data(af), [])
         pass
 
