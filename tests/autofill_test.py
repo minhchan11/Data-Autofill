@@ -7,9 +7,9 @@ col = Columns
 class AutofillTester(unittest.TestCase):
 
     def test_autofill_in_dict(self):
-        # col.dict1 = []
-        # col.dictdict2 = []
-        # self.assertEqual(col.autofill_data(af), [])
+        # col.dict1 = {}
+        # col.dictdict2 = {}
+        # self.assertEqual(col.autofill_data(af), {})
         pass
 
 #calls the unittest's main method
